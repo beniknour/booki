@@ -1,0 +1,2 @@
+
+CRUM est une méthodologie de gestion de projet agile axée sur la collaboration, la transparence et l'adaptabilité. Elle divise le processus de développement en itérations appelées "sprints", généralement de deux à quatre semaines. Chaque sprint aboutit à une version fonctionnelle du produit, permettant des retours réguliers et une adaptation continue aux besoins changeants du client. SCRUM favorise la communication fréquente entre l'équipe de développement, le product owner et le client, assurant ainsi une livraison rapide et une flexibilité optimale tout au long du projet.

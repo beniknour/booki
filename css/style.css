@@ -1,7 +1,6 @@
 /****** General ***********/
 * {
     font-family: 'Raleway', sans-serif;
-    max-width: 1400px;
 }
 /***********main*****************/
 
@@ -20,7 +19,7 @@ main{
     color: var(--main-color);
 }
 
-body {
+body{
     
     display: flex;
     justify-content: center;
@@ -881,13 +880,4 @@ footer a {
         margin-bottom: 30px;
     }
     
-}
-@media screen and (min-width: 1440px) {
-    body{
-
-        margin-left: 18%;
-        margin-right: 20%;
-        width: 100%;
-    }
-   
 }
